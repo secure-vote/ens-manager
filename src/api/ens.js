@@ -3,11 +3,11 @@ import ENSconstructor from 'ethereum-ens'
 
 var contracts = {
   1: {
-    registry: "0x314159265dd8dbb310642f98f50c066173c1259b"
+    registry: "0x30ff37d85c14000b6ba4192137fff59a3c22211f"
   },
-  3: {
-    registry: "0x112234455c3a32fd11230c42e7bccd4a84e02010"
-  },
+  42: {
+    registry: "0xd6F4f22eeC158c434b17d01f62f5dF33b108Ae93"
+  }
 }
 
 let ENS;
